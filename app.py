@@ -99,7 +99,6 @@ def check_arg(args=None):
     parser = argparse.ArgumentParser(description='Download free Springer book')
     parser.add_argument('-d', '--discipline',
                         default='all',
-                        nargs = '?',
                         choices=['all', 'engineering', 'computer_science', 'mathematics', 'physics', 'psychology'],
                         help='Discipline. default: all. Choices: engineering, computer_science, mathematics, physics, psychology')
 
