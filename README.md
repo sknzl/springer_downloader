@@ -6,13 +6,13 @@ This little tool allows to download all free books into a folder or all books of
 ## How to use
 ### Download all free books into one folder
 ```
-python app.py
+python3 app.py
 ```
 
 ### Command line options
 Download only books of one discipline into a separate folder
 ```
-python app.py -d *option*
+python3 app.py -d *option*
 ```
 Possible options are: `engineering`, `computer_science`, `mathematics`, `physics`, `psychology`
 
