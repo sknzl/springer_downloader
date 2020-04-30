@@ -14,7 +14,7 @@ Download only books of one discipline into a separate folder
 ```
 python app.py -d *option*
 ```
-Possible options are: `engineering, computer_science, mathematics, physics, psychology`
+Possible options are: `engineering`, `computer_science`, `mathematics`, `physics`, `psychology`
 
 ## Requirements
 Python 3
