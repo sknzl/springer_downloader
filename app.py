@@ -1,4 +1,3 @@
-import requests
 import csv
 import os
 import threading
