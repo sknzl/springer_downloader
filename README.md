@@ -1,3 +1,6 @@
+# Update
+Springer added a ReCAPTCHA before the download, which breaks this tool at the moment. I am looking into solutions.
+
 # Springer Downloader
 Springer offers a selection of textbooks [for free](https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks) during the Covid-19 crisis.
 
